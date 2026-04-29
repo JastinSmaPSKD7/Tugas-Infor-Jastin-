@@ -1,2 +1,21 @@
-# Tugas-Infor-Jastin-
-Analisis Bola 24 Jam 
+perkenalan-diri/
+├── README.md
+└── index.html
+
+# Perkenalan Diri
+
+Halo! 👋
+
+## Identitas
+- Nama: Justin Hasian Manurung
+- Sekolah: (SMA PSKD 7)
+
+## Tentang Saya
+Saya adalah seorang pelajar yang tertarik pada teknologi, terutama di bidang:
+- Crypto & trading
+- Teknologi digital
+- Pembelajaran mandiri
+
+## Tujuan
+Repository ini dibuat sebagai latihan menggunakan GitHub dan dokumentasi diri.
+
